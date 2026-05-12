@@ -4,7 +4,7 @@ This repository contains my hands-on practice and assignments while learning cor
 
 ---
 
-## 📌 Overview
+## Overview
 
 The goal of this repository is to build a strong foundation in Machine Learning through practical implementation and experimentation.
 
